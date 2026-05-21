@@ -1,0 +1,46 @@
+job_id,job_title,department,location,employment_type,requisition_open_date,requisition_close_date,hiring_manager_id,recruiter_id,headcount_approved,status,target_fill_date,job_level
+JOB-001,Engineering Manager,Technology,"Kaunas, Lithuania",full_time,2025-04-05,2025-05-03,HM-003,REC-005,1,filled,2025-05-05,manager
+JOB-002,Platform Engineer,Technology,"Kaunas, Lithuania",full_time,2025-05-29,2025-06-20,HM-023,REC-001,2,filled,2025-06-28,ic2
+JOB-003,Mobile Engineer,Technology,"London, United Kingdom",full_time,2025-06-19,,HM-013,REC-003,1,open,2025-07-21,ic2
+JOB-004,Engineering Manager,Technology,"Vilnius, Lithuania",full_time,2024-03-15,2024-05-14,HM-023,REC-006,1,filled,2024-04-14,manager
+JOB-005,Security Engineer,Technology,"Kaunas, Lithuania",full_time,2025-07-09,2025-06-21,HM-015,REC-004,1,filled,2025-08-08,ic3
+JOB-006,Platform Engineer,Technology,Remote - Europe,full_time,2024-01-13,2024-02-18,HM-025,REC-007,2,filled,2024-02-12,ic2
+JOB-007,Engineering Manager,Technology,"Vilnius, Lithuania",contractor,2025-05-18,2025-06-08,HM-023,REC-003,1,filled,2025-06-17,manager
+JOB-008,DevOps Engineer,Technology,"Vilnius, Lithuania",full_time,2025-06-02,,HM-009,REC-002,1,open,2025-07-24,ic2
+JOB-009,Senior Mobile Engineer,Technology,Remote - Europe,full_time,2025-04-29,2025-05-19,HM-013,REC-003,1,filled,2025-05-29,ic3
+JOB-010,Frontend Engineer,Technology,"Kaunas, Lithuania",full_time,2025-05-16,2025-06-23,HM-005,REC-006,1,filled,2025-06-15,ic2
+JOB-011,Security Engineer,Technology,"Vilnius, Lithuania",full_time,2024-12-04,,HM-018,REC-007,1,open,2025-07-31,ic3
+JOB-012,Head of Engineering,Technology,Remote - Europe,full_time,2025-06-08,,HM-021,REC-003,1,open,2025-07-08,director
+JOB-013,DevOps Engineer,Technology,"Vilnius, Lithuania",contractor,2025-02-23,,HM-024,REC-003,1,on_hold,2025-08-30,ic2
+JOB-014,Engineering Manager,Technology,"Warsaw, Poland",full_time,2024-07-01,2024-07-26,HM-017,REC-005,1,filled,2024-07-31,manager
+JOB-015,Mobile Engineer,Technology,Remote - Europe,full_time,2025-05-23,2025-06-10,HM-001,REC-005,1,filled,2025-06-22,ic2
+JOB-016,Associate Product Manager,Product,"Warsaw, Poland",full_time,2025-07-07,,HM-002,REC-002,1,open,2025-07-30,ic1
+JOB-017,Head of Product,Product,Remote - Europe,full_time,2024-11-24,2025-01-09,HM-018,REC-007,1,filled,2024-12-24,director
+JOB-018,UX Researcher,Product,"Kaunas, Lithuania",full_time,2025-06-08,2025-06-26,HM-020,REC-004,1,cancelled,2025-07-08,ic2
+JOB-019,Head of Product,Product,Remote - Europe,full_time,2025-06-25,2025-06-26,HM-012,REC-004,1,cancelled,2025-07-25,director
+JOB-020,Senior Product Lead,Product,"Vilnius, Lithuania",full_time,2024-01-13,,HM-019,REC-005,1,open,2025-07-16,senior_manager
+JOB-021,Product Manager,Product,"Vilnius, Lithuania",full_time,2024-01-22,2024-02-25,HM-008,REC-001,1,filled,2024-02-21,ic2
+JOB-022,Data Engineering Manager,Data and Analytics,"Kaunas, Lithuania",full_time,2025-07-01,2025-06-20,HM-018,REC-002,1,filled,2025-07-31,manager
+JOB-023,Senior Analytics Engineer,Data and Analytics,"Vilnius, Lithuania",full_time,2024-10-06,2024-11-04,HM-007,REC-001,1,filled,2024-11-05,ic3
+JOB-024,Analytics Engineer,Data and Analytics,"Vilnius, Lithuania",full_time,2025-01-20,2025-03-01,HM-024,REC-001,1,filled,2025-02-19,ic2
+JOB-025,Head of Data,Data and Analytics,"Vilnius, Lithuania",full_time,2025-06-21,,HM-008,REC-002,1,open,2025-07-21,director
+JOB-026,Analytics Engineer,Data and Analytics,"Vilnius, Lithuania",full_time,2024-01-09,2024-02-07,HM-003,REC-004,1,cancelled,2024-02-08,ic2
+JOB-027,Senior Marketing Manager,Commercial,"Vilnius, Lithuania",full_time,2025-04-21,2025-05-17,HM-001,REC-001,1,filled,2025-05-21,senior_manager
+JOB-028,Senior Marketing Manager,Commercial,"Vilnius, Lithuania",full_time,2025-02-10,2025-04-06,HM-013,REC-001,1,filled,2025-03-12,senior_manager
+JOB-029,Growth Manager,Commercial,"London, United Kingdom",full_time,2024-12-23,2025-02-05,HM-015,REC-003,1,filled,2025-01-22,ic2
+JOB-030,Head of Marketing,Commercial,"Vilnius, Lithuania",full_time,2024-01-01,,HM-002,REC-005,1,on_hold,2025-08-30,director
+JOB-031,Marketing Manager,Commercial,Remote - Europe,contractor,2025-06-28,,HM-017,REC-007,1,open,2025-08-14,manager
+JOB-032,Senior Growth Manager,Commercial,"London, United Kingdom",full_time,2025-06-11,,HM-020,REC-001,1,open,2025-07-19,ic3
+JOB-033,Senior Growth Manager,Commercial,"Vilnius, Lithuania",full_time,2025-06-28,,HM-008,REC-005,1,on_hold,2025-08-30,ic3
+JOB-034,Senior Financial Analyst,Finance,"Vilnius, Lithuania",full_time,2025-04-01,2025-05-23,HM-011,REC-003,1,filled,2025-05-01,ic3
+JOB-035,Management Accountant,Finance,"Vilnius, Lithuania",full_time,2025-04-13,2025-06-03,HM-022,REC-006,1,filled,2025-05-13,ic2
+JOB-036,Financial Analyst,Finance,"Vilnius, Lithuania",full_time,2025-03-30,2025-05-04,HM-004,REC-001,1,filled,2025-04-29,ic2
+JOB-037,Operations Specialist,Operations,"Berlin, Germany",full_time,2025-04-19,,HM-012,REC-003,1,open,2025-07-30,ic2
+JOB-038,Customer Support Manager,Operations,"Kaunas, Lithuania",full_time,2024-12-28,2025-02-11,HM-017,REC-001,1,filled,2025-01-27,manager
+JOB-039,Trust and Safety Lead,Operations,"Vilnius, Lithuania",full_time,2025-06-16,2025-06-22,HM-009,REC-001,1,filled,2025-07-16,ic3
+JOB-040,Operations Manager,Operations,"Vilnius, Lithuania",full_time,2024-01-01,2024-02-03,HM-011,REC-002,1,filled,2024-01-31,manager
+JOB-041,Senior TA Specialist,People,"Kaunas, Lithuania",full_time,2025-06-17,2025-06-25,HM-003,REC-006,1,filled,2025-07-17,ic3
+JOB-042,L&D Specialist,People,"Vilnius, Lithuania",full_time,2024-06-17,2024-08-10,HM-021,REC-003,1,filled,2024-07-17,ic2
+JOB-043,Compensation and Benefits Analyst,People,"Kaunas, Lithuania",full_time,2024-07-21,2024-09-12,HM-023,REC-002,1,filled,2024-08-20,ic2
+JOB-044,Senior Legal Manager,Legal and Compliance,"Vilnius, Lithuania",contractor,2025-07-05,,HM-002,REC-003,1,open,2025-08-04,senior_manager
+JOB-045,Senior Legal Counsel,Legal and Compliance,Remote - Europe,full_time,2024-04-05,2024-05-15,HM-020,REC-006,1,cancelled,2024-05-05,ic3

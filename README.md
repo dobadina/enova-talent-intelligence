@@ -1,4 +1,4 @@
-# Enova Technologies — Talent Intelligence Analytics
+# Enova Technologies - Talent Intelligence Analytics
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)

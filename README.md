@@ -41,15 +41,15 @@ flowchart TD
         A3[Finance Plan\n1 table]
     end
 
-    subgraph Bronze["Bronze Layer — SQL Server"]
+    subgraph Bronze["Bronze Layer - SQL Server"]
         B[9 raw tables\nuntouched, all columns NVARCHAR]
     end
 
-    subgraph Silver["Silver Layer — SQL Server"]
+    subgraph Silver["Silver Layer - SQL Server"]
         C[9 cleaned tables\ntyped, standardised, DQ flags added]
     end
 
-    subgraph Gold["Gold Layer — SQL Server"]
+    subgraph Gold["Gold Layer - SQL Server"]
         D1[5 dimension tables\ndim_date, dim_department, dim_source,\ndim_job, dim_candidate]
         D2[4 fact tables\nfact_applications, fact_pipeline_events,\nfact_offers, fact_headcount]
     end
